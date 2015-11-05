@@ -16,4 +16,4 @@ Sample code for WIZnet Serial to Ethernet Gateway with PIC Microcontroller, PIC1
 <ul><li><a href="http://www.microchip.com/pagehandler/en-us/family/mplabx/" target="_blank"> MPLAB X IDE V1.20</a> and<a href="http://www.microchip.com/pagehandler/en_us/devtools/mplabxc/#tab-1" target="_blank">MPLAB XC8 Compiler</a></li>
 </ul>
 
-Welcome to our <a href="http://forum.cytron.com.my/" target="_blank">technical forum</a>for further inquiry.
+Welcome to our <a href="http://forum.cytron.com.my/" target="_blank">technical forum</a> for further inquiry.
