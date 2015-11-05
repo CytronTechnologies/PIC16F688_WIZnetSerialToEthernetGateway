@@ -12,7 +12,7 @@ Sample code for WIZnet Serial to Ethernet Gateway with PIC Microcontroller, PIC1
 <li><a href="http://www.cytron.com.my/p-lc04a" target="_blank">4 channel Logic Converter</a></li>
 <li>5110 Nokia LCD</li>
 </ul>
-<b>Hardware:</b>
+<b>software:</b>
 <ul><li><a href="http://www.microchip.com/pagehandler/en-us/family/mplabx/" target="_blank"> MPLAB X IDE V1.20</a> and<a href="http://www.microchip.com/pagehandler/en_us/devtools/mplabxc/#tab-1" target="_blank">MPLAB XC8 Compiler</a></li>
 </ul>
 
